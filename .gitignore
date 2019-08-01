@@ -14,6 +14,7 @@ venv
 uploads
 **/migrations/*.py
 shield_web/media/*
+asset/*
 
 # 忽略手机端生成代码
 shield_rn/android/*
